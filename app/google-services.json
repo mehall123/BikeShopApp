@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853644383764",
+    "project_id": "os-bike-shop",
+    "storage_bucket": "os-bike-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853644383764:android:63a8e48af8cf9f15533901",
+        "android_client_info": {
+          "package_name": "com.example.osbikeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853644383764-okn7ck173c9popd71leo5ensef89i21n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMMC_GE3IAJZOOyjWmxgdSIS0uKHFxNko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853644383764-okn7ck173c9popd71leo5ensef89i21n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

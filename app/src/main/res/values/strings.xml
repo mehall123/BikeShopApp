@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OS Bike Shop</string>
+    <string name="text_firstName">First Name</string>
+    <string name="text_lastName">Last Name</string>
+    <string name="text_username">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_checkout">Checkout</string>
+    <string name="text_card_name">Card Owner Name</string>
+    <string name="label_card_number">Valid Card Number</string>
+    <string name="text_addcart">Add to Shopping Cart</string>
+    <string name="shoppingcart">Shopping Cart</string>
+</resources>
